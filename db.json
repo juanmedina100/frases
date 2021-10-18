@@ -1,18 +1,11 @@
-[
-  {
-    "text": "Los genios no solo nasen, tambien se hacen",
-    "author": "Thomas Edison"
-  },
-  {
-    "text": "Comerme a Karen es lo mejor que me ha pasado",
-    "author": "Yogi Berra"
-  },
-  {
-    "text": "Karen la mejor haciendo un oral",
-    "author": "Abraham Lincoln"
-  },
-  {
-    "text": "Buena mamona KAREN",
-    "author": "Johann Wolfgang von Goethe"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
