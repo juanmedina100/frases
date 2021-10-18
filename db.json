@@ -1,12 +1,16 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "text": "Los genios nasen solos",
+      "author": "Juan Medina"
     },
     {
-    "id":2,
-      "title":"Karen"
+    "text":"Karen coque como una diosa",
+      "author":"Juan Medina"
+    },
+    {
+    "text":"La mejor mamona que he probado, Karen",
+      "author":"Juan Medina"
     }
   ],
   "profile": {
