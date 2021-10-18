@@ -1,16 +1,24 @@
 {
   "posts": [
     {
-      "text": "Los genios nasen solos",
-      "author": "Juan Medina"
+      "text": "Es una enorme desgracia no tener talento para hablar bien, ni la sabiduría necesaria para cerrar la boca.",
+      "author": "Jean de la Bruyere"
     },
     {
-    "text":"Karen coque como una diosa",
-      "author":"Juan Medina"
+    "text":"Experiencia es el nombre que damos a nuestras equivocaciones.",
+      "author":"Oscar Wilde "
     },
     {
-    "text":"La mejor mamona que he probado, Karen",
-      "author":"Juan Medina"
+    "text":"Hay cuerdas en el corazón humano que sería mejor no hacerlas vibrar.",
+      "author":"Charles Dickens "
+    },
+    {
+    "text":"Sólo el hombre íntegro es capaz de confesar sus faltas y de reconocer sus errores.",
+      "author":"Benjamin Franklin"
+    },
+    {
+    "text":"No perdamos nada de nuestro tiempo; quizá los hubo más bellos, pero este es el nuestro",
+      "author":"Jean Paul Sartre"
     }
   ],
   "profile": {
